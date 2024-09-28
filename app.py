@@ -25,7 +25,7 @@ def extract_text(image):
 
 
 def main():
-    st.title("OCR Web Application - English & Hindi")
+    st.title("OCR Insight - English & Hindi")
 
     # Allow users to upload an image file
     uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
