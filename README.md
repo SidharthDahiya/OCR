@@ -10,7 +10,7 @@ OCR Insight is a web-based application that allows users to perform Optical Char
 
 ## Access the App
 
-The app is live and can be accessed at: [OCR Insight]([https://ocr-insight.streamlit.app](https://huggingface.co/spaces/SidharthDahiya/OCR-Insight))
+The app is live and can be accessed at [OCR Insight](https://huggingface.co/spaces/SidharthDahiya/OCR-Insight)
 
 ## Usage
 
